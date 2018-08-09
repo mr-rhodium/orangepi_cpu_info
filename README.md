@@ -1,0 +1,2 @@
+# orangepi_cpu_info
+orange_pi_cpu_info
